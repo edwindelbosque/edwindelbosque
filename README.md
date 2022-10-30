@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edwindelbosque
 - 👀 I’m interested in UI and music
-- 🌱 I’m currently learning large scale applications
+- 🌱 I’m currently learning large scale applications and scalability
 - 💞️ I’m looking to collaborate on web3
 - 📫 How to reach me: edwindelbosquer@gmail.com
 
